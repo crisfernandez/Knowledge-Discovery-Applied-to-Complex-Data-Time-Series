@@ -28,8 +28,8 @@ An end-to-end Knowledge Discovery and Time Series analysis project on the Capita
 ## 📊 Dataset Overview
 
 The dataset is sourced from the Capital Bikeshare system (Washington D.C., 2011–2012):
-* **`hour.csv`**: ~17,379 records capturing hourly rental activity with environmental metrics.
-* **`day.csv`**: ~731 aggregated daily observations.
+* **`hour.csv`**: Rrecords capturing hourly rental activity with environmental metrics.
+* **`day.csv`**: Aggregated daily observations.
 
 **Main Features:**
 * **Temporal:** `dteday`, `season`, `yr`, `mnth`, `hr`, `holiday`, `weekday`, `workingday`.
